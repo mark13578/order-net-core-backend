@@ -1,0 +1,17 @@
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\1.XFree.Simple.Domain.xml
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\1.XFree.Simple.Domain.deps.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\1.XFree.Simple.Domain.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\1.XFree.Simple.Domain.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\0.XFree.Simple.Domain.Shared.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\bin\Release\net5.0\0.XFree.Simple.Domain.Shared.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.csproj.AssemblyReference.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.AssemblyInfoInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.AssemblyInfo.cs
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.sourcelink.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree..CF7BCE2F.Up2Date
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\refint\1.XFree.Simple.Domain.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\1.XFree.Simple.Domain.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain\obj\Release\net5.0\ref\1.XFree.Simple.Domain.dll

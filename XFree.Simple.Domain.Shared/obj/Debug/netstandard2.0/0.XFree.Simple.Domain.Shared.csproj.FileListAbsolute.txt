@@ -1,0 +1,11 @@
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\bin\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.deps.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\bin\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\bin\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.AssemblyInfo.cs
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.sourcelink.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\obj\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.pdb

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = XFree.Simple.Domain.Shared
+build_property.ProjectDir = C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Domain.Shared\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

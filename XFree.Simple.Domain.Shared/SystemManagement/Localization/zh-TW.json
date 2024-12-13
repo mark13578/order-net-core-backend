@@ -1,0 +1,30 @@
+﻿{
+  "culture": "zh-TW",
+  "texts": {
+    "EnumException:SystemFriendlyExceptionCode:DuplicateMerchantName": "商家名稱重複",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateMerchantCode": "商家編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:MerchantError005": "商家資料已經初始化，資料庫資訊無法修改",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateDictCode": "字典編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateDictItemValue": "字典項目編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:LoginError101": "使用者不存在:{0}",
+    "EnumException:SystemFriendlyExceptionCode:LoginError102": "密碼錯誤",
+    "EnumException:SystemFriendlyExceptionCode:LoginError103": "使用者被停用",
+    "EnumException:SystemFriendlyExceptionCode:LoginError104": "使用者被鎖定",
+    "EnumException:SystemFriendlyExceptionCode:LoginError106": "無效Token",
+    "EnumException:SystemFriendlyExceptionCode:LoginError107": "Token失效",
+    "EnumException:SystemFriendlyExceptionCode:LoginError108": "過期請重新登入",
+    "EnumException:SystemFriendlyExceptionCode:LoginError109": "沒有存取權限",
+    "EnumException:SystemFriendlyExceptionCode:LoginError110": "租用戶不存在",
+    "EnumException:SystemFriendlyExceptionCode:LoginError111": "租用戶已停用",
+    "EnumException:SystemFriendlyExceptionCode:UserError114": "使用者帳號重複",
+    "EnumException:SystemFriendlyExceptionCode:UserError115": "使用者工號重複",
+    "EnumException:SystemFriendlyExceptionCode:UserError116": "部門編碼不存在",
+    "EnumException:SystemFriendlyExceptionCode:UserError117": "職務編碼不存在",
+    "EnumException:SystemFriendlyExceptionCode:UserError118": "角色編碼不存在",
+    "EnumException:SystemFriendlyExceptionCode:UserError119": "管理員使用者不能刪除",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateDepartCode201": "部門編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateRoleCode301": "角色編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:DuplicatePostCode501": "職務編碼重複:{0}",
+    "EnumException:SystemFriendlyExceptionCode:DuplicateDatabaseConnectionName601": "資料庫連線名稱重複"
+  }
+}

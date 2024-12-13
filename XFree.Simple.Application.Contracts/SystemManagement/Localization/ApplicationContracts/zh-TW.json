@@ -1,0 +1,32 @@
+﻿{
+  "culture": "zh-TW",
+  "texts": {
+    "Permission:SystemManagement": "系統管理",
+    "Permission:Base": "基礎權限",
+    "Permission:Tenant": "租戶",
+    "Permission:DatabaseConnection": "資料庫連線資訊",
+    "Permission:WithToken": "要求Token",
+    "Permission:ChangePassword": "修改密碼",
+    "Permission:Users": "使用者管理",
+    "Permission:ResetPassword": "重置密碼",
+    "Permission:Create": "建立",
+    "Permission:Update": "更新",
+    "Permission:Delete": "刪除",
+    "Permission:Import": "導入",
+    "Permission:Export": "匯出",
+    "Permission:Departs": "部門管理",
+    "Permission:QueryUser": "查詢使用者",
+    "Permission:Posts": "職務管理",
+    "Permission:Roles": "角色管理",
+    "Permission:UiPermissions": "選單權限管理",
+    "Permission:RefreshBackgroundApi": "刷新介面資源",
+    "Permission:Dicts": "資料字典管理",
+    "Permission:Platform": "平台",
+    "TenantServiceDataSeeder:User:Memo": "系統管理員，預設擁有系統所有權限，初始密碼為123456",
+    "TenantServiceDataSeeder:Dict:Description": "部門類型",
+    "TenantServiceDataSeeder:Post:Name": "管理員",
+    "TenantServiceDataSeeder:Post:Memo": "系統管理者",
+    "TenantServiceDataSeeder:Depart:OrgName1": "公司",
+    "TenantServiceDataSeeder:Depart:OrgName2": "IT部"
+  }
+}

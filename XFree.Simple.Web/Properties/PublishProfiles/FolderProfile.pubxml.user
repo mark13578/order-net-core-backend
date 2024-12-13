@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\backend</_PublishTargetUrl>
+    <History>True|2024-12-13T06:42:29.6618535Z||;True|2024-12-13T14:39:35.3023919+08:00||;True|2024-12-13T00:00:05.2065370+08:00||;True|2024-12-12T23:54:00.8473415+08:00||;True|2024-12-12T23:49:11.6672120+08:00||;True|2024-12-12T23:44:27.2847091+08:00||;True|2024-12-12T23:40:46.9887771+08:00||;True|2024-12-12T23:11:43.9590644+08:00||;True|2024-12-12T22:48:48.8249979+08:00||;True|2024-12-12T22:40:58.0655385+08:00||;True|2024-12-12T22:39:27.8145592+08:00||;False|2024-12-12T22:39:02.3407968+08:00||;True|2024-12-12T22:25:07.5122740+08:00||;True|2024-12-12T22:15:30.4303080+08:00||;True|2024-12-12T21:04:57.2882422+08:00||;False|2024-12-12T21:04:31.3990282+08:00||;True|2024-12-12T17:36:26.9124354+08:00||;True|2024-12-12T17:36:02.8471198+08:00||;True|2024-12-12T17:19:25.1482734+08:00||;True|2024-12-12T17:13:48.6967442+08:00||;True|2024-12-12T16:52:04.1332996+08:00||;True|2024-12-12T16:47:45.8956145+08:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ApplicationConnection">
+      <Value>Server=127.0.0.1%3bport=3306%3bDatabase=x_free_dev_center_1%3bUser=root%3b Password=root</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

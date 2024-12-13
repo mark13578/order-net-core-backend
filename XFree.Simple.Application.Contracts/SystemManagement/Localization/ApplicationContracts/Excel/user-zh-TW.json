@@ -1,0 +1,20 @@
+﻿{
+  "culture": "zh-TW",
+  "texts": {
+    "Excel:User:Title": "使用者資訊",
+    "Excel:User:TemplateTitle": "使用者資訊導入範本",
+    "Excel:User:*帳號": "*帳號",
+    "Excel:User:*姓名": "*姓名",
+    "Excel:User:*工號": "*工號",
+    "Excel:User:性別(0:未知 1:男 2:女)": "性別(0:未知 1:男 2:女)",
+    "Excel:User:*部門編碼": "部門編碼",
+    "Excel:User:部門名稱": "部門名稱",
+    "Excel:User:職務編碼": "職務編碼",
+    "Excel:User:職務名稱": "職務名稱",
+    "Excel:User:角色編碼": "角色編碼",
+    "Excel:User:角色名稱": "角色名稱",
+    "Excel:User:*狀態(1:正常 2:停用)": "*狀態(1:正常 2:停用)",
+    "Excel:User:*密碼": "*密碼",
+    "Excel:User:建立時間": "建立時間"
+  }
+}

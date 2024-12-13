@@ -1,0 +1,15 @@
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\XFree.Simple.Application.Contracts.xml
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.deps.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\bin\Debug\netstandard2.0\0.XFree.Simple.Domain.Shared.pdb
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.AssemblyInfo.cs
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.sourcelink.json
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree..94F6C9C4.Up2Date
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.dll
+C:\Users\mypc\Desktop\XFreeSimple\background\src\XFree.Simple.Application.Contracts\obj\Debug\netstandard2.0\3.XFree.Simple.Application.Contracts.pdb

@@ -1,0 +1,17 @@
+﻿{
+  "culture": "zh-TW",
+  "texts": {
+    "HttpException:100106": "無效Token！",
+    "HttpException:400": "參數異常",
+    "HttpException:404": "資料找不到！",
+    "HttpException:5001": "功能暫未實現，請聯絡系統管理員！",
+    "HttpException:500": "服務異常,請稍後再試！",
+    "EnumException:FriendlyExceptionCode:ExcelImport001": "導入檔案缺少列:{0}",
+    "EnumException:FriendlyExceptionCode:ExcelImport002": "導入檔案為空",
+    "EnumException:FriendlyExceptionCode:ExcelImport003": "{0}行'{1}'列格式不正確",
+    "EnumException:FriendlyExceptionCode:ExcelImport004": "一次最多導入{0}行資料",
+    "EnumException:FriendlyExceptionCode:ExcelImport005": "請選擇上傳檔案",
+    "EnumException:FriendlyExceptionCode:TimeOut10061": "操作逾時,請稍後重試",
+    "EnumException:FriendlyExceptionCode:TimeOut10062": "等待逾時,請稍後重試"
+  }
+}
